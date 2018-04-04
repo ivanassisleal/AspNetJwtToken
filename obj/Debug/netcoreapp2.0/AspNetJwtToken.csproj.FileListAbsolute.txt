@@ -1,0 +1,11 @@
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\bin\Debug\netcoreapp2.0\AspNetJwtToken.deps.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\bin\Debug\netcoreapp2.0\AspNetJwtToken.runtimeconfig.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\bin\Debug\netcoreapp2.0\AspNetJwtToken.runtimeconfig.dev.json
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\bin\Debug\netcoreapp2.0\AspNetJwtToken.dll
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\bin\Debug\netcoreapp2.0\AspNetJwtToken.pdb
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\obj\Debug\netcoreapp2.0\AspNetJwtToken.csproj.CoreCompileInputs.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\obj\Debug\netcoreapp2.0\AspNetJwtToken.AssemblyInfoInputs.cache
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\obj\Debug\netcoreapp2.0\AspNetJwtToken.AssemblyInfo.cs
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\obj\Debug\netcoreapp2.0\AspNetJwtToken.dll
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\obj\Debug\netcoreapp2.0\AspNetJwtToken.pdb
+C:\Esquadgroup\Laboratorio\AspnetCore\AspNetJwtToken\AspNetJwtToken\obj\Debug\netcoreapp2.0\AspNetJwtToken.csprojResolveAssemblyReference.cache
